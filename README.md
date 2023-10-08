@@ -1,6 +1,9 @@
 # Melbourne-Housing-analysis
 This project offers a comprehensive analysis of the Melbourne housing market. Through data exploration, visualization. we aim to provide valuable insights for both homebuyers and property investors.
 
+![download pic](https://github.com/devvrat29/melbourne-housing-analysis/assets/146213827/fb7cb956-4450-4476-bc2c-f9d92342ed87)
+
+
 ## 🎯 Problem Statement:
 
 - The objective of this project is to analyze user behavior on the HR Attrition using Exploratory Data Analysis. 
