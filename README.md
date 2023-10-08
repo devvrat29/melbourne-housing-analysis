@@ -39,9 +39,9 @@ This project offers a comprehensive analysis of the Melbourne housing market. Th
 - Performed data cleaning to ensure data accuracy and consistency.
 - Handled missing values, duplicates, and organized the data for analysis.
 
-### 📊 Power BI Dashboard
+### 📊 Excel Dashboard
 
-- Utilized Power Bi to create insightful visualizations.
+- Utilized Excel to create insightful visualizations.
 - Generated bar plots, area chart, column chart and more to illustrate trends and patterns.
 - Visualizations provide a clear representation of user engagement, content popularity, and viewing habits.
 
@@ -51,7 +51,7 @@ This project offers a comprehensive analysis of the Melbourne housing market. Th
 
 
 - Clone this repository to your local machine.
-- Open the Power Bi ('amazon_prime_titles.csv') in a compatible environment.
+- Open the excel ('Melborn_housing_dataset.csv') in a compatible environment.
 - Follow along with the documented steps to understand the Power Query process.
 - Experiment with the data and visualizations to gain insights.
 - Feel free to modify and adapt the data for your own analysis.
@@ -81,7 +81,7 @@ The project consists of the following sheets in the Excel workbook:
 ## 🌟 Tech Stack
 
 - Power Query: Used for Data Cleaning, Processing, and Modeling.
-- Power Bi: Used for Data analysis and Dashboard Making.
+- Excel: Used for Data analysis and Dashboard Making.
 
  <br>
 
