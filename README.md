@@ -1,7 +1,8 @@
 # Melbourne-Housing-analysis
 This project offers a comprehensive analysis of the Melbourne housing market. Through data exploration, visualization. we aim to provide valuable insights for both homebuyers and property investors.
 
-![download pic](https://github.com/devvrat29/melbourne-housing-analysis/assets/146213827/fb7cb956-4450-4476-bc2c-f9d92342ed87)
+![melbourne-australia-MELBOURNETG0721-62ff9ae2570945ec80160ddf46ee7cb1](https://github.com/devvrat29/melbourne-housing-analysis/assets/146213827/2ba792dc-0983-4de2-94c3-39fbcfaddfa0)
+
 
 
 ## 🎯 Problem Statement:
